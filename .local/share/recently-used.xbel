@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///media/cdrom0" added="2025-08-08T06:51:26.668362Z" modified="2025-08-14T16:36:30.309136Z" visited="2025-08-08T06:51:26.668363Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;nautilus-autorun-software %u&apos;" modified="2025-08-14T16:36:30.309134Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/varnika/Pictures/Screenshots/Screenshot%20from%202025-08-14%2013-07-41.png" added="2025-08-14T07:37:41.081066Z" modified="2025-08-14T07:37:41.081072Z" visited="2025-08-14T07:37:41.081067Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2025-08-14T07:37:41.081069Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/varnika/Pictures/Screenshots/Screenshot%20from%202025-08-14%2013-08-45.png" added="2025-08-14T07:38:45.944453Z" modified="2025-08-14T07:38:45.944458Z" visited="2025-08-14T07:38:45.944454Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2025-08-14T07:38:45.944456Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/varnika/Pictures/Screenshots/Screenshot%20from%202025-08-14%2013-18-26.png" added="2025-08-14T07:48:26.670927Z" modified="2025-08-14T07:48:26.670931Z" visited="2025-08-14T07:48:26.670928Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2025-08-14T07:48:26.670929Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/varnika/Pictures/Screenshots/Screenshot%20from%202025-08-14%2013-34-12.png" added="2025-08-14T08:04:12.856207Z" modified="2025-08-14T08:04:12.856215Z" visited="2025-08-14T08:04:12.856208Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2025-08-14T08:04:12.856211Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/varnika/Pictures/Screenshots/Screenshot%20from%202025-08-21%2012-22-22.png" added="2025-08-21T06:52:22.541704Z" modified="2025-08-21T06:52:22.541709Z" visited="2025-08-21T06:52:22.541705Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2025-08-21T06:52:22.541707Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/varnika/Pictures/Screenshots/Screenshot%20from%202025-09-04%2012-18-47.png" added="2025-09-04T06:48:47.825784Z" modified="2025-09-04T06:48:47.825789Z" visited="2025-09-04T06:48:47.825785Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2025-09-04T06:48:47.825787Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/varnika/Pictures/Screenshots/Screenshot%20from%202025-09-08%2014-46-19.png" added="2025-09-08T09:16:19.209229Z" modified="2025-09-08T09:16:19.209233Z" visited="2025-09-08T09:16:19.209230Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2025-09-08T09:16:19.209231Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/varnika/Pictures/Screenshots/Screenshot%20from%202025-09-12%2023-06-00.png" added="2025-09-12T17:36:00.822603Z" modified="2025-09-12T17:36:00.822609Z" visited="2025-09-12T17:36:00.822605Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2025-09-12T17:36:00.822607Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
