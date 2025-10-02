@@ -3,5 +3,5 @@
 # ibus session bus with the below address.
 # If the IBUS_ADDRESS environment variable is set, it will
 # be used rather than this file.
-IBUS_ADDRESS=unix:abstract=/home/varnika/.cache/ibus/dbus-r8nvFpIN,guid=2da2056ccb71400c0eb41d9268c68319
-IBUS_DAEMON_PID=2402
+IBUS_ADDRESS=unix:abstract=/home/varnika/.cache/ibus/dbus-wyiq1I95,guid=44f248077c079f6609a0fbb268e22e15
+IBUS_DAEMON_PID=2401
